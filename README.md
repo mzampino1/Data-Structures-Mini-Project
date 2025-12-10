@@ -3,7 +3,7 @@
 - The amount of time taken to create the tree and perform the range search is printed in the terminal.
 - The user can then plot information about software vulnerabilities within that severity range.
 - There are three plots that can be displayed for a given severity range:
-    - Number of vulnerabilities by CWE for the top 25 most common CWEs
+    - Number of vulnerabilities by CWE (Common Weakness Enumeration, or vulnerability type) for the top 25 most common CWEs
     - Average severity by CWE for the top 25 most common CWEs 
     - Number of vulnerabilities added to database by month
 
